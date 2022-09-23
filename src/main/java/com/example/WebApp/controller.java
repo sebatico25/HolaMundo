@@ -8,7 +8,7 @@ public class controller {
     @GetMapping("/")
     public String Mensaje() {
         System.out.println("Mensaje de Exito");
-        return "Hola, Esta es una prueba con Spring Boot local";
+        return "Hola, Esta es una prueba con Spring Boot en Oracle Cloud";
     }
     
 }
